@@ -1,0 +1,6 @@
+D:\5.Demos\GitHub\DemosSolution\WebAppDemo\bin\WebAppDemo.dll.config
+D:\5.Demos\GitHub\DemosSolution\WebAppDemo\bin\WebAppDemo.dll
+D:\5.Demos\GitHub\DemosSolution\WebAppDemo\bin\WebAppDemo.pdb
+D:\5.Demos\GitHub\DemosSolution\WebAppDemo\obj\Debug\WebAppDemo.csprojResolveAssemblyReference.cache
+D:\5.Demos\GitHub\DemosSolution\WebAppDemo\obj\Debug\WebAppDemo.dll
+D:\5.Demos\GitHub\DemosSolution\WebAppDemo\obj\Debug\WebAppDemo.pdb

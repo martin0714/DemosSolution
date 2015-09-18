@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WinForm", "WinForm", "{81ED6144-0CE4-4154-AC81-59FCA09CE965}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebForm", "WebForm", "{FB286FFA-964D-4AE7-A009-6496933A3799}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{B92CE987-835C-4FD4-B9C5-FD6FB1FDBCC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mvc", "Mvc", "{E5B0ECD3-5BFA-4DD4-BD0B-6CF9DA40DC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{772C9AB6-408D-48B3-90F3-C8AAF37781AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDemo", "WebAppDemo\WebAppDemo.csproj", "{7D635EA7-CA9F-494E-9323-653ABE9844F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772C9AB6-408D-48B3-90F3-C8AAF37781AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772C9AB6-408D-48B3-90F3-C8AAF37781AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772C9AB6-408D-48B3-90F3-C8AAF37781AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772C9AB6-408D-48B3-90F3-C8AAF37781AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D635EA7-CA9F-494E-9323-653ABE9844F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D635EA7-CA9F-494E-9323-653ABE9844F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D635EA7-CA9F-494E-9323-653ABE9844F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D635EA7-CA9F-494E-9323-653ABE9844F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{772C9AB6-408D-48B3-90F3-C8AAF37781AF} = {B92CE987-835C-4FD4-B9C5-FD6FB1FDBCC0}
+		{7D635EA7-CA9F-494E-9323-653ABE9844F0} = {FB286FFA-964D-4AE7-A009-6496933A3799}
+	EndGlobalSection
+EndGlobal
